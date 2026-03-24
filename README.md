@@ -22,10 +22,10 @@ After cloning, all skills are immediately available. Type `/rapid-prototyper` in
 ### Option 2: Install specific skills only
 
 ```bash
-# Clone the repo anywhere
+# 1. Clone the repo anywhere
 git clone https://github.com/YOUR_USERNAME/skills.git ~/skills-repo
 
-# Copy only the skills you want
+# 2. Copy only the skills you want
 cp -r ~/skills-repo/agents/engineering/rapid-prototyper ~/.claude/skills/
 cp -r ~/skills-repo/agents/product/sprint-prioritizer ~/.claude/skills/
 ```
