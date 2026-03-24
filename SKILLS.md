@@ -1,0 +1,63 @@
+# Available Skills
+
+### Engineering (6 skills)
+| Skill | Command | Use When |
+|-------|---------|----------|
+| Frontend Developer | `/frontend-developer` | Building user interfaces, React/Vue/HTML components |
+| Backend Architect | `/backend-architect` | Designing APIs, databases, system architecture |
+| Mobile App Builder | `/mobile-app-builder` | Creating iOS/Android apps, React Native, Flutter |
+| AI Engineer | `/ai-engineer` | Implementing ML features, LLM integrations, AI pipelines |
+| DevOps Automator | `/devops-automator` | CI/CD, deployment, infrastructure, monitoring |
+| Rapid Prototyper | `/rapid-prototyper` | Building MVPs fast, validating ideas with working code |
+
+### Product (3 skills)
+| Skill | Command | Use When |
+|-------|---------|----------|
+| Trend Researcher | `/trend-researcher` | Market research, competitor analysis, opportunity validation |
+| Feedback Synthesizer | `/feedback-synthesizer` | Processing user feedback, interviews, reviews into insights |
+| Sprint Prioritizer | `/sprint-prioritizer` | Deciding what to build next, managing backlog, planning sprints |
+
+### Marketing (7 skills)
+| Skill | Command | Use When |
+|-------|---------|----------|
+| TikTok Strategist | `/tiktok-strategist` | Short-form video strategy, trends, content planning |
+| Instagram Curator | `/instagram-curator` | Visual content strategy, reels, stories, feed planning |
+| Twitter Engager | `/twitter-engager` | Twitter/X strategy, threads, engagement, building audience |
+| Reddit Community Builder | `/reddit-community-builder` | Reddit marketing, community engagement, authentic participation |
+| App Store Optimizer | `/app-store-optimizer` | ASO, app store listings, keywords, screenshots |
+| Content Creator | `/content-creator` | Blog posts, newsletters, documentation, copywriting |
+| Growth Hacker | `/growth-hacker` | Growth experiments, acquisition channels, viral mechanics |
+
+### Design (5 skills)
+| Skill | Command | Use When |
+|-------|---------|----------|
+| UI Designer | `/ui-designer` | Interface design, components, layouts, design systems |
+| UX Researcher | `/ux-researcher` | User research, usability testing, journey mapping |
+| Brand Guardian | `/brand-guardian` | Brand consistency, voice, visual identity |
+| Visual Storyteller | `/visual-storyteller` | Presentations, graphics, visual narratives |
+| Whimsy Injector | `/whimsy-injector` | Adding delight, micro-interactions, personality to products |
+
+### Project Management (3 skills)
+| Skill | Command | Use When |
+|-------|---------|----------|
+| Experiment Tracker | `/experiment-tracker` | Tracking A/B tests, experiments, learnings |
+| Project Shipper | `/project-shipper` | Pushing projects to completion, unblocking, shipping |
+| Studio Producer | `/studio-producer` | Orchestrating multiple projects, resource allocation |
+
+### Studio Operations (5 skills)
+| Skill | Command | Use When |
+|-------|---------|----------|
+| Support Responder | `/support-responder` | Customer support, help docs, ticket responses |
+| Analytics Reporter | `/analytics-reporter` | Metrics analysis, dashboards, data insights |
+| Infrastructure Maintainer | `/infrastructure-maintainer` | Server maintenance, updates, security patches |
+| Legal Compliance Checker | `/legal-compliance-checker` | Privacy policies, terms, GDPR, legal requirements |
+| Finance Tracker | `/finance-tracker` | Revenue tracking, expenses, runway, financial planning |
+
+### Testing (5 skills)
+| Skill | Command | Use When |
+|-------|---------|----------|
+| Tool Evaluator | `/tool-evaluator` | Evaluating tools, comparing options, making tech decisions |
+| API Tester | `/api-tester` | Testing APIs, edge cases, integration testing |
+| Workflow Optimizer | `/workflow-optimizer` | Improving processes, automation, efficiency |
+| Performance Benchmarker | `/performance-benchmarker` | Load testing, performance analysis, optimization |
+| Test Results Analyzer | `/test-results-analyzer` | Analyzing test results, identifying patterns, QA insights |
