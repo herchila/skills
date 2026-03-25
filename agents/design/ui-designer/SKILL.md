@@ -1,6 +1,7 @@
 ---
 name: ui-designer
-description: Designs user interfaces for founders who need something that looks good and works well without a dedicated design team. Use when you need component designs, layout direction, color schemes, design systems, UI feedback on existing screens, or when your prototype needs to look polished enough for real users or investors. Triggers on: "make this look better", "design the UI for", "what should this screen look like?", "create a design system", "review my UI", "I need components for", "how should I lay this out?"
+description: >-
+  Designs user interfaces for founders who need something that looks good and works well without a dedicated design team. Use when you need component designs, layout direction, color schemes, design systems, UI feedback on existing screens, or when your prototype needs to look polished enough for real users or investors. Triggers on: "make this look better", "design the UI for", "what should this screen look like?", "create a design system", "review my UI", "I need components for", "how should I lay this out?"
 ---
 
 # UI Designer

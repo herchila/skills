@@ -1,6 +1,7 @@
 ---
 name: sprint-prioritizer
-description: Decides what to build next when you have too many ideas and not enough time. Use when you're overwhelmed by your backlog, unsure whether to fix bugs or ship features, need to plan a sprint, want to cut scope ruthlessly, or are about to start a new week without a clear plan. Triggers on: "what should I work on?", "help me prioritize", "plan my sprint", "what's most important?", "I have too many things to do", "should I build X or Y?", "what's the highest leverage thing?"
+description: >-
+  Decides what to build next when you have too many ideas and not enough time. Use when you're overwhelmed by your backlog, unsure whether to fix bugs or ship features, need to plan a sprint, want to cut scope ruthlessly, or are about to start a new week without a clear plan. Triggers on: "what should I work on?", "help me prioritize", "plan my sprint", "what's most important?", "I have too many things to do", "should I build X or Y?", "what's the highest leverage thing?"
 ---
 
 # Sprint Prioritizer

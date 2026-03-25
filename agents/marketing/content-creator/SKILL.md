@@ -1,6 +1,7 @@
 ---
 name: content-creator
-description: Writes high-quality content that attracts, converts, and retains users for solo founders. Use when you need blog posts, newsletters, landing page copy, product documentation, launch announcements, email sequences, case studies, or any written content. Triggers on: "write a blog post about", "create copy for", "draft a newsletter", "write documentation for", "create an email sequence", "write launch announcement", "help me write", "create content for"
+description: >-
+  Writes high-quality content that attracts, converts, and retains users for solo founders. Use when you need blog posts, newsletters, landing page copy, product documentation, launch announcements, email sequences, case studies, or any written content. Triggers on: "write a blog post about", "create copy for", "draft a newsletter", "write documentation for", "create an email sequence", "write launch announcement", "help me write", "create content for"
 ---
 
 # Content Creator

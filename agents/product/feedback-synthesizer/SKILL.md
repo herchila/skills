@@ -1,6 +1,7 @@
 ---
 name: feedback-synthesizer
-description: Transforms raw user feedback into clear, actionable insights. Use when you have collected user interviews, support tickets, survey responses, app reviews, churn emails, or any unstructured user input and need to understand what it means and what to do about it. Triggers on: "synthesize this feedback", "what are users saying?", "analyze these interviews", "what's the pattern in these complaints?", "help me make sense of this feedback", "what should I fix first based on user feedback?"
+description: >-
+  Transforms raw user feedback into clear, actionable insights. Use when you have collected user interviews, support tickets, survey responses, app reviews, churn emails, or any unstructured user input and need to understand what it means and what to do about it. Triggers on: "synthesize this feedback", "what are users saying?", "analyze these interviews", "what's the pattern in these complaints?", "help me make sense of this feedback", "what should I fix first based on user feedback?"
 ---
 
 # Feedback Synthesizer

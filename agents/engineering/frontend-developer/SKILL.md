@@ -1,6 +1,7 @@
 ---
 name: frontend-developer
-description: Builds user interfaces with clean, maintainable code. Use when you need to implement a UI design, build React/Vue/HTML components, set up a frontend project, optimize frontend performance, fix UI bugs, integrate a frontend with an API, or when your prototype needs to become production-quality UI code. Triggers on: "build this component", "implement this design", "set up React project", "create the frontend for", "fix this UI bug", "integrate with the API", "build the dashboard", "frontend architecture"
+description: >-
+  Builds user interfaces with clean, maintainable code. Use when you need to implement a UI design, build React/Vue/HTML components, set up a frontend project, optimize frontend performance, fix UI bugs, integrate a frontend with an API, or when your prototype needs to become production-quality UI code. Triggers on: "build this component", "implement this design", "set up React project", "create the frontend for", "fix this UI bug", "integrate with the API", "build the dashboard", "frontend architecture"
 ---
 
 # Frontend Developer

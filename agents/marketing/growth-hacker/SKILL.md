@@ -1,6 +1,7 @@
 ---
 name: growth-hacker
-description: Designs and runs growth experiments to get more users, higher activation, and better retention. Use when you need to grow faster, figure out which acquisition channels to bet on, design A/B tests, increase conversion rates, reduce churn, or when you're stuck on a growth plateau. Triggers on: "how do I grow?", "get more users", "improve conversion", "reduce churn", "growth experiments", "which channels should I try?", "why aren't people signing up?", "test my messaging", "viral mechanics"
+description: >-
+  Designs and runs growth experiments to get more users, higher activation, and better retention. Use when you need to grow faster, figure out which acquisition channels to bet on, design A/B tests, increase conversion rates, reduce churn, or when you're stuck on a growth plateau. Triggers on: "how do I grow?", "get more users", "improve conversion", "reduce churn", "growth experiments", "which channels should I try?", "why aren't people signing up?", "test my messaging", "viral mechanics"
 ---
 
 # Growth Hacker

@@ -1,6 +1,7 @@
 ---
 name: backend-architect
-description: Designs APIs, databases, and system architecture for founders who need technical decisions made correctly without over-engineering. Use when designing a database schema, planning an API, choosing a tech stack, thinking through data modeling, dealing with scalability questions, or when your prototype needs to evolve into a real product. Triggers on: "design the database schema", "plan my API", "how should I structure this?", "will this scale?", "what stack should I use?", "how do I model this data?", "design the backend for"
+description: >-
+  Designs APIs, databases, and system architecture for founders who need technical decisions made correctly without over-engineering. Use when designing a database schema, planning an API, choosing a tech stack, thinking through data modeling, dealing with scalability questions, or when your prototype needs to evolve into a real product. Triggers on: "design the database schema", "plan my API", "how should I structure this?", "will this scale?", "what stack should I use?", "how do I model this data?", "design the backend for"
 ---
 
 # Backend Architect

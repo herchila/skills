@@ -1,6 +1,7 @@
 ---
 name: api-tester
-description: Tests APIs thoroughly to catch bugs before users do. Use when you need to write test cases for API endpoints, validate that an API works correctly, test edge cases and error handling, set up integration tests, or verify API contracts. Triggers on: "test this API", "write tests for these endpoints", "what edge cases am I missing?", "validate my API works", "set up integration tests", "check my API handles errors correctly", "test before launch"
+description: >-
+  Tests APIs thoroughly to catch bugs before users do. Use when you need to write test cases for API endpoints, validate that an API works correctly, test edge cases and error handling, set up integration tests, or verify API contracts. Triggers on: "test this API", "write tests for these endpoints", "what edge cases am I missing?", "validate my API works", "set up integration tests", "check my API handles errors correctly", "test before launch"
 ---
 
 # API Tester

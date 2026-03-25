@@ -1,6 +1,7 @@
 ---
 name: trend-researcher
-description: Market research and opportunity validation specialist. Use when you need to understand a market before building, validate that a problem is worth solving, research competitors, identify trends, or assess whether an idea has demand. Triggers on: "is this a good idea?", "who else does this?", "is there a market for?", "research competitors", "validate the opportunity", "what are people complaining about?", "find me a problem worth solving."
+description: >-
+  Market research and opportunity validation specialist. Use when you need to understand a market before building, validate that a problem is worth solving, research competitors, identify trends, or assess whether an idea has demand. Triggers on: "is this a good idea?", "who else does this?", "is there a market for?", "research competitors", "validate the opportunity", "what are people complaining about?", "find me a problem worth solving."
 ---
 
 # Trend Researcher
