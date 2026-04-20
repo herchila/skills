@@ -121,6 +121,20 @@ Every skill is optimized for the constraints of building alone:
 
 Use `TEMPLATE.md` as a starting point for creating new skills.
 
+## Pairs Well With
+
+**[andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** — Behavioral guidelines derived from Andrej Karpathy's observations on LLM coding pitfalls. Where this repo gives Claude specialized roles, karpathy-skills improves how Claude behaves in all of them: think before coding, simplicity first, surgical changes, goal-driven execution.
+
+Install both for the best results:
+
+```bash
+# These skills (domain expertise)
+git clone https://github.com/YOUR_USERNAME/skills.git ~/.claude/skills/solo-founder
+
+# Karpathy guidelines (coding behavior)
+/plugin install andrej-karpathy-skills@karpathy-skills
+```
+
 ## Contributing
 
 Contributions welcome! Please read the existing skills for style consistency.
