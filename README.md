@@ -57,6 +57,20 @@ git pull
 
 See [SKILLS.md](SKILLS.md) for the full list of 34 skills organized by category.
 
+## Workflows
+
+Five pre-built workflows that chain skills together for the most common founder scenarios:
+
+| Workflow | When to Use |
+|----------|-------------|
+| [1. Validate](workflows/01-validate.md) | New idea — is it worth building? |
+| [2. Ship v1](workflows/02-ship-v1.md) | Validated demand — build and launch |
+| [3. Weekly Sprint](workflows/03-weekly-sprint.md) | Ongoing development cadence |
+| [4. Grow](workflows/04-grow.md) | Systematically acquire and retain users |
+| [5. Operate](workflows/05-operate.md) | Keep a live product healthy |
+
+See [workflows/README.md](workflows/README.md) for the full guide.
+
 ## Quick Start
 
 1. Install the skills (see Installation above)
