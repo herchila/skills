@@ -14,7 +14,7 @@ Each skill is a detailed prompt that transforms Claude into a focused expert for
 
 ```bash
 # Clone into Claude Code's skills directory
-git clone https://github.com/YOUR_USERNAME/skills.git ~/.claude/skills/solo-founder
+git clone https://github.com/herchila/skills.git ~/.claude/skills/solo-founder
 ```
 
 After cloning, all skills are immediately available. Type `/rapid-prototyper` in Claude Code to use it.
@@ -23,7 +23,7 @@ After cloning, all skills are immediately available. Type `/rapid-prototyper` in
 
 ```bash
 # 1. Clone the repo anywhere
-git clone https://github.com/YOUR_USERNAME/skills.git ~/skills-repo
+git clone https://github.com/herchila/skills.git ~/skills-repo
 
 # 2. Copy only the skills you want
 cp -r ~/skills-repo/agents/engineering/rapid-prototyper ~/.claude/skills/
@@ -129,7 +129,7 @@ Install both for the best results:
 
 ```bash
 # These skills (domain expertise)
-git clone https://github.com/YOUR_USERNAME/skills.git ~/.claude/skills/solo-founder
+git clone https://github.com/herchila/skills.git ~/.claude/skills/solo-founder
 
 # Karpathy guidelines (coding behavior)
 /plugin install andrej-karpathy-skills@karpathy-skills
